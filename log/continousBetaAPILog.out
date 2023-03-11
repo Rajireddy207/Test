@@ -1,0 +1,478 @@
+2023-02-11 12:45:51 INFO  LoginPage_Test:36 - Browser Using   null
+2023-02-11 12:45:51 INFO  LoginPage_Test:38 - Fetching the URL  null
+2023-02-11 12:46:42 INFO  LoginPage_Test:36 - Browser Using   null
+2023-02-11 12:46:42 INFO  LoginPage_Test:38 - Fetching the URL  null
+2023-02-11 12:47:43 INFO  LoginPage_Test:36 - Browser Using   null
+2023-02-11 12:47:43 INFO  LoginPage_Test:38 - Fetching the URL  null
+2023-02-11 12:50:36 INFO  LoginPage_Test:36 - Browser Using   PPM.prolifics.com
+2023-02-11 12:50:36 INFO  LoginPage_Test:38 - Fetching the URL  
+2023-02-11 12:52:21 INFO  LoginPage_Test:36 - Browser Using   PPM.prolifics.com
+2023-02-11 12:52:21 INFO  LoginPage_Test:38 - Fetching the URL  
+2023-02-11 12:52:59 INFO  LoginPage_Test:36 - Browser Using   null
+2023-02-11 12:52:59 INFO  LoginPage_Test:38 - Fetching the URL  null
+2023-02-11 12:53:59 INFO  LoginPage_Test:36 - Browser Using   chrome
+2023-02-11 12:53:59 INFO  LoginPage_Test:38 - Fetching the URL  PPM.prolifics.com
+2023-02-11 12:55:28 INFO  LoginPage_Test:36 - Browser Using   chrome
+2023-02-11 12:55:28 INFO  LoginPage_Test:38 - Fetching the URL  PPM.prolifics.com
+2023-02-11 12:58:00 INFO  LoginPage_Test:36 - Browser Using   Firefox
+2023-02-11 12:58:00 INFO  LoginPage_Test:38 - Fetching the URL  PPM.prolifics.com
+2023-02-11 12:59:42 INFO  LoginPage_Test:36 - Browser Using   Firefox
+2023-02-11 12:59:42 INFO  LoginPage_Test:38 - Fetching the URL  https://ppm.prolifics.com
+2023-02-11 13:01:38 INFO  LoginPage_Test:36 - Browser Using   Firefox
+2023-02-11 13:01:38 INFO  LoginPage_Test:38 - Fetching the URL  https://ppm.prolifics.com
+2023-02-11 13:04:42 INFO  LoginPage_Test:39 - Browser Using   Firefox
+2023-02-11 13:04:42 INFO  LoginPage_Test:41 - Fetching the URL  https://ppm.prolifics.com
+2023-02-11 13:17:21 INFO  LoginPage_Test:39 - Browser Using   Firefox
+2023-02-11 13:17:21 INFO  LoginPage_Test:41 - Fetching the URL  https://ppm.prolifics.com
+2023-02-11 13:17:33 INFO  LoginPage_Test:52 - "PPM header text     Project & Portfolio Management
+2023-02-11 13:24:16 INFO  LoginPage_Test:40 - Browser Using   Firefox
+2023-02-11 13:24:16 INFO  LoginPage_Test:42 - Fetching the URL  https://ppm.prolifics.com
+2023-02-11 13:24:25 INFO  LoginPage_Test:56 - PPM header text     Project & Portfolio Management
+2023-02-11 13:24:40 INFO  LoginPage_Test:40 - Browser Using   Firefox
+2023-02-11 13:24:40 INFO  LoginPage_Test:42 - Fetching the URL  https://ppm.prolifics.com
+2023-02-11 13:24:47 ERROR LoginPage_Test:61 -  text is not matched  with the Project & Portfolio Management
+2023-02-13 20:25:18 INFO  LoginPage_Test:42 - Browser Using   Firefox
+2023-02-13 20:25:18 INFO  LoginPage_Test:44 - Fetching the URL  https://ppm.prolifics.com
+2023-02-13 20:25:29 INFO  LoginPage_Test:59 - PPM header text     Project & Portfolio Management
+2023-02-13 20:25:29 INFO  LoginPage_Test:42 - Browser Using   Firefox
+2023-02-13 20:25:29 INFO  LoginPage_Test:44 - Fetching the URL  https://ppm.prolifics.com
+2023-02-13 20:25:57 INFO  LoginPage_Test:42 - Browser Using   Firefox
+2023-02-13 20:25:57 INFO  LoginPage_Test:44 - Fetching the URL  https://ppm.prolifics.com
+2023-02-13 20:38:18 INFO  LoginPage_Test:42 - Browser Using   
+2023-02-13 20:38:18 INFO  LoginPage_Test:44 - Fetching the URL  Firefox
+2023-02-13 20:40:03 INFO  LoginPage_Test:42 - Browser Using   Firefox
+2023-02-13 20:40:03 INFO  LoginPage_Test:44 - Fetching the URL  https://ppm.prolifics.com
+2023-02-13 20:40:16 INFO  LoginPage_Test:59 - PPM header text     Project & Portfolio Management
+2023-02-16 20:04:09 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-16 20:04:09 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-16 20:05:43 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-16 20:05:43 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-16 20:09:10 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-16 20:09:10 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-16 20:10:32 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-16 20:10:32 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-16 20:13:42 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-16 20:13:42 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-16 20:16:03 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-16 20:16:03 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-16 20:17:29 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-16 20:17:29 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-17 11:54:31 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-17 11:54:31 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-17 11:56:22 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-17 11:56:22 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-17 16:25:25 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-17 16:25:25 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-17 16:28:07 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-17 16:28:07 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 11:42:33 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 11:42:33 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 12:53:44 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 12:53:44 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 12:54:44 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 12:54:44 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 12:56:24 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 12:56:24 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 12:58:22 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 12:58:22 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 12:59:50 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 12:59:50 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 13:01:21 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 13:01:21 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 13:02:44 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 13:02:44 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 13:10:45 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 13:10:45 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 13:14:10 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 13:14:10 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 13:17:15 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 13:17:15 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 13:20:35 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 13:20:35 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 13:22:54 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 13:22:54 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 13:24:28 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 13:24:28 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 13:30:20 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 13:30:20 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 13:31:21 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 13:31:21 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 13:37:36 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 13:37:36 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 17:49:37 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 17:49:37 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 17:50:52 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 17:50:52 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 17:54:18 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 17:54:18 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 18:11:39 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 18:11:39 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 18:13:18 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 18:13:18 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 18:14:20 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 18:14:20 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 18:15:49 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 18:15:49 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 19:33:32 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 19:33:32 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 19:34:28 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 19:34:28 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 19:37:05 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 19:37:05 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 19:38:11 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 19:38:11 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 19:46:04 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 19:46:04 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-18 19:47:27 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-18 19:47:27 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-19 12:43:48 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-19 12:43:48 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-20 15:03:35 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-20 15:03:35 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-20 15:11:06 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-20 15:11:06 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-20 15:14:34 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-20 15:14:34 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-20 15:53:56 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-20 15:53:56 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-20 15:55:00 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-20 15:55:00 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-20 15:55:53 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-20 15:55:53 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-20 16:00:14 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-20 16:00:14 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-20 18:22:38 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-20 18:22:38 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-20 18:28:39 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-20 18:28:39 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-21 19:36:25 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-21 19:36:25 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-21 19:41:27 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-21 19:41:27 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-21 19:45:06 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-21 19:45:06 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-21 19:57:18 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-21 19:57:18 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-21 20:01:07 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-21 20:01:07 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-21 20:02:00 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-21 20:02:00 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-21 20:05:47 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-21 20:05:48 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-21 20:06:50 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-21 20:06:50 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-21 20:09:04 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-21 20:09:04 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-21 20:09:49 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-21 20:09:49 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-21 20:10:48 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-21 20:10:48 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-21 20:15:15 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-21 20:15:15 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-21 20:20:45 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-21 20:20:45 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-21 20:21:55 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-21 20:21:55 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-21 20:22:44 INFO  LoginPage_Test:41 - Browser Using   Firefox
+2023-02-21 20:22:44 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-02-21 20:24:32 INFO  LoginPage_Test:41 - Browser Using   Chrome
+2023-02-21 20:24:32 INFO  LoginPage_Test:43 - Fetching the URL  https://ppm.prolifics.com
+2023-03-07 21:49:38 INFO  EndToEnd_Test:37 - Browser Using   Chrome
+2023-03-07 21:49:38 INFO  EndToEnd_Test:39 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-07 22:09:52 INFO  EndToEnd_Test:39 - Browser Using   Chrome
+2023-03-07 22:09:52 INFO  EndToEnd_Test:41 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-07 22:10:01 INFO  EndToEnd_Test:54 - succesfully validated Account Id is planittest78@gmail.com
+2023-03-07 22:18:55 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-07 22:18:55 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-07 22:22:19 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-07 22:22:19 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-07 22:25:38 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-07 22:25:38 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-07 22:25:46 ERROR EndToEnd_Test:57 - Account id is not matched with the planittest78@gmail.com
+2023-03-07 22:26:45 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-07 22:26:45 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-07 22:26:53 INFO  EndToEnd_Test:54 - succesfully validated Account Id is planittest78@gmail.com
+2023-03-08 07:59:52 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-08 07:59:52 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-08 08:00:03 INFO  EndToEnd_Test:54 - succesfully validated Account Id is planittest78@gmail.com
+2023-03-08 08:01:17 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-08 08:01:17 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-08 08:01:28 INFO  EndToEnd_Test:54 - succesfully validated Account Id is planittest78@gmail.com
+2023-03-08 08:01:29 INFO  EndToEnd_Test:62 - Demo web shop logged out successfully
+2023-03-08 18:15:44 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-08 18:15:44 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-08 18:15:56 INFO  EndToEnd_Test:54 - succesfully validated Account Id is planittest78@gmail.com
+2023-03-08 18:15:57 INFO  EndToEnd_Test:62 - Demo web shop logged out successfully
+2023-03-08 18:15:57 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-08 18:15:57 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-08 18:17:10 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-08 18:17:10 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-08 18:17:19 INFO  EndToEnd_Test:54 - succesfully validated Account Id is planittest78@gmail.com
+2023-03-08 18:17:20 INFO  EndToEnd_Test:62 - Demo web shop logged out successfully
+2023-03-08 18:17:20 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-08 18:17:20 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-08 20:28:56 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-08 20:28:56 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-08 20:29:09 INFO  EndToEnd_Test:54 - succesfully validated Account Id is planittest78@gmail.com
+2023-03-08 20:29:10 INFO  EndToEnd_Test:62 - Demo web shop logged out successfully
+2023-03-08 20:29:10 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-08 20:29:10 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-08 20:29:19 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-08 20:35:33 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-08 20:35:33 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-08 20:35:44 INFO  EndToEnd_Test:54 - succesfully validated Account Id is planittest78@gmail.com
+2023-03-08 20:35:45 INFO  EndToEnd_Test:62 - Demo web shop logged out successfully
+2023-03-08 20:35:45 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-08 20:35:45 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-08 20:35:54 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-08 20:35:57 INFO  EndToEnd_Test:75 - fetched the price successfully & price is800.00
+2023-03-08 20:42:32 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-08 20:42:32 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-08 20:42:44 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-08 20:42:46 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-08 20:47:24 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-08 20:47:24 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-08 20:47:36 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-08 20:47:38 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-08 20:50:28 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-08 20:50:28 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-08 20:50:38 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-08 20:50:41 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-08 20:51:32 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-08 20:51:32 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-08 20:51:46 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-08 20:51:49 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-08 21:22:25 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-08 21:22:25 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-08 21:22:35 INFO  EndToEnd_Test:54 - succesfully validated Account Id is planittest78@gmail.com
+2023-03-08 21:22:37 INFO  EndToEnd_Test:62 - Demo web shop logged out successfully
+2023-03-08 21:22:37 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-08 21:22:37 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-08 21:22:47 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-08 21:22:50 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-08 21:22:50 INFO  EndToEnd_Test:78 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-09 15:03:51 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 15:03:51 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 15:04:03 INFO  EndToEnd_Test:54 - succesfully validated Account Id is planittest78@gmail.com
+2023-03-09 15:04:04 INFO  EndToEnd_Test:62 - Demo web shop logged out successfully
+2023-03-09 15:04:05 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 15:04:05 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 15:04:13 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-09 15:04:17 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-09 15:04:18 INFO  EndToEnd_Test:78 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-09 15:09:10 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 15:09:10 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 15:09:20 INFO  EndToEnd_Test:54 - succesfully validated Account Id is planittest78@gmail.com
+2023-03-09 15:09:21 INFO  EndToEnd_Test:62 - Demo web shop logged out successfully
+2023-03-09 15:09:21 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 15:09:21 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 15:09:31 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-09 15:09:33 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-09 15:09:34 INFO  EndToEnd_Test:78 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-09 15:12:43 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 15:12:43 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 15:12:54 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-09 15:12:55 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-09 15:12:56 INFO  EndToEnd_Test:78 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-09 15:21:42 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 15:21:42 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 15:21:53 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-09 15:21:55 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-09 15:21:55 INFO  EndToEnd_Test:78 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-09 15:24:57 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 15:24:57 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 15:25:07 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-09 15:25:09 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-09 15:25:09 INFO  EndToEnd_Test:78 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-09 15:25:11 INFO  EndToEnd_Test:82 - Subtotal Price Fetched successfully and the price is   19560.00
+2023-03-09 15:32:45 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 15:32:45 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 15:32:56 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-09 15:32:58 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-09 15:32:59 INFO  EndToEnd_Test:78 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-09 15:33:00 INFO  EndToEnd_Test:82 - Subtotal Price Fetched successfully and the price is   10595.00
+2023-03-09 15:42:52 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 15:42:52 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 15:43:03 INFO  EndToEnd_Test:54 - succesfully validated Account Id is planittest78@gmail.com
+2023-03-09 15:43:04 INFO  EndToEnd_Test:62 - Demo web shop logged out successfully
+2023-03-09 15:43:04 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 15:43:04 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 15:43:12 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-09 15:43:14 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-09 15:43:14 INFO  EndToEnd_Test:78 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-09 15:43:15 INFO  EndToEnd_Test:82 - Subtotal Price Fetched successfully and the price is   20375.00
+2023-03-09 18:10:59 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 18:10:59 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 18:11:15 INFO  EndToEnd_Test:54 - succesfully validated Account Id is planittest78@gmail.com
+2023-03-09 18:11:16 INFO  EndToEnd_Test:62 - Demo web shop logged out successfully
+2023-03-09 18:11:16 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 18:11:16 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 18:11:28 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-09 18:11:30 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-09 18:11:30 INFO  EndToEnd_Test:78 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-09 18:11:32 INFO  EndToEnd_Test:82 - Subtotal Price Fetched successfully and the price is   15300.00
+2023-03-09 18:14:47 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 18:14:47 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 18:14:57 INFO  EndToEnd_Test:54 - succesfully validated Account Id is planittest78@gmail.com
+2023-03-09 18:14:58 INFO  EndToEnd_Test:62 - Demo web shop logged out successfully
+2023-03-09 18:14:58 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 18:14:58 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 18:15:07 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-09 18:15:08 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-09 18:15:09 INFO  EndToEnd_Test:78 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-09 18:15:10 INFO  EndToEnd_Test:82 - Subtotal Price Fetched successfully and the price is   15300.00
+2023-03-09 18:34:06 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 18:34:06 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 18:34:16 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-09 18:34:18 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-09 18:34:19 INFO  EndToEnd_Test:78 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-09 18:34:20 INFO  EndToEnd_Test:82 - Subtotal Price Fetched successfully and the price is   15300.00
+2023-03-09 18:38:15 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 18:38:15 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 18:38:26 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-09 18:38:28 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-09 18:38:28 INFO  EndToEnd_Test:78 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-09 18:38:29 INFO  EndToEnd_Test:82 - Subtotal Price Fetched successfully and the price is   25080.00
+2023-03-09 18:39:12 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 18:39:12 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 18:39:26 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-09 18:39:27 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-09 18:39:28 INFO  EndToEnd_Test:78 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-09 18:39:29 INFO  EndToEnd_Test:82 - Subtotal Price Fetched successfully and the price is   34860.00
+2023-03-09 18:42:52 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 18:42:52 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 18:43:08 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-09 18:43:10 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-09 18:43:10 INFO  EndToEnd_Test:78 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-09 18:43:13 INFO  EndToEnd_Test:82 - Subtotal Price Fetched successfully and the price is   15300.00
+2023-03-09 18:48:04 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 18:48:04 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 18:48:15 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-09 18:48:16 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-09 18:48:17 INFO  EndToEnd_Test:78 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-09 18:48:18 INFO  EndToEnd_Test:82 - Subtotal Price Fetched successfully and the price is   15300.00
+2023-03-09 18:50:34 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 18:50:34 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 18:50:46 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-09 18:50:48 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-09 18:50:48 INFO  EndToEnd_Test:78 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-09 18:50:49 INFO  EndToEnd_Test:82 - Subtotal Price Fetched successfully and the price is   25080.00
+2023-03-09 18:53:41 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 18:53:41 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 18:53:50 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-09 18:53:53 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-09 18:53:54 INFO  EndToEnd_Test:78 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-09 18:53:55 INFO  EndToEnd_Test:82 - Subtotal Price Fetched successfully and the price is   15300.00
+2023-03-09 18:58:06 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 18:58:06 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 18:58:16 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-09 18:58:18 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-09 18:58:18 INFO  EndToEnd_Test:78 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-09 18:58:19 INFO  EndToEnd_Test:82 - Subtotal Price Fetched successfully and the price is   25080.00
+2023-03-09 18:58:22 INFO  EndToEnd_Test:86 - Billing addreess details entered successfully 
+2023-03-09 19:02:38 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 19:02:38 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 19:02:48 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-09 19:02:50 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-09 19:02:51 INFO  EndToEnd_Test:78 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-09 19:02:52 INFO  EndToEnd_Test:82 - Subtotal Price Fetched successfully and the price is   15300.00
+2023-03-09 19:02:55 INFO  EndToEnd_Test:86 - Billing addreess details entered successfully 
+2023-03-09 19:04:50 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 19:04:50 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 19:05:01 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-09 19:05:03 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-09 19:05:03 INFO  EndToEnd_Test:78 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-09 19:05:04 INFO  EndToEnd_Test:82 - Subtotal Price Fetched successfully and the price is   25080.00
+2023-03-09 19:05:07 INFO  EndToEnd_Test:86 - Billing addreess details entered successfully 
+2023-03-09 19:06:26 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 19:06:26 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 19:07:38 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 19:07:38 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 19:07:48 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-09 19:07:50 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-09 19:07:51 INFO  EndToEnd_Test:78 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-09 19:07:52 INFO  EndToEnd_Test:82 - Subtotal Price Fetched successfully and the price is   15300.00
+2023-03-09 19:07:55 INFO  EndToEnd_Test:86 - Billing addreess details entered successfully 
+2023-03-09 19:10:47 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 19:10:47 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 19:10:57 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-09 19:10:59 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-09 19:11:00 INFO  EndToEnd_Test:78 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-09 19:11:01 INFO  EndToEnd_Test:82 - Subtotal Price Fetched successfully and the price is   15300.00
+2023-03-09 19:11:04 INFO  EndToEnd_Test:86 - Billing addreess details entered successfully 
+2023-03-09 19:34:26 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 19:34:26 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 19:34:36 INFO  EndToEnd_Test:54 - succesfully validated Account Id is planittest78@gmail.com
+2023-03-09 19:34:37 INFO  EndToEnd_Test:62 - Demo web shop logged out successfully
+2023-03-09 19:34:37 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 19:34:37 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 19:34:44 INFO  EndToEnd_Test:71 - Computers and Destop are clicked successfully 
+2023-03-09 19:34:47 INFO  EndToEnd_Test:75 - fetched the price successfully & price is 800.00
+2023-03-09 19:34:47 INFO  EndToEnd_Test:78 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-09 19:34:48 INFO  EndToEnd_Test:82 - Subtotal Price Fetched successfully and the price is   15300.00
+2023-03-09 19:34:50 INFO  EndToEnd_Test:86 - Billing addreess details entered successfully 
+2023-03-09 19:34:53 INFO  EndToEnd_Test:91 - payment validated successfully an dthe message is  You will pay by COD
+2023-03-09 19:55:36 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 19:55:36 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 19:55:44 INFO  EndToEnd_Test:54 - succesfully validated Account Id is planittest78@gmail.com
+2023-03-09 19:55:45 INFO  EndToEnd_Test:62 - Demo web shop logged out successfully
+2023-03-09 19:55:45 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 19:55:45 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 19:55:52 INFO  EndToEnd_Test:72 - Computers and Destop are clicked successfully 
+2023-03-09 19:55:54 INFO  EndToEnd_Test:76 - fetched the price successfully & price is 800.00
+2023-03-09 19:55:54 INFO  EndToEnd_Test:79 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-09 19:55:55 INFO  EndToEnd_Test:83 - Subtotal Price Fetched successfully and the price is   15300.00
+2023-03-09 19:55:58 INFO  EndToEnd_Test:87 - Billing addreess details entered successfully 
+2023-03-09 19:56:00 INFO  EndToEnd_Test:92 - payment validated successfully and the message is  You will pay by COD
+2023-03-09 19:57:46 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 19:57:46 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 19:57:54 INFO  EndToEnd_Test:72 - Computers and Destop are clicked successfully 
+2023-03-09 19:57:56 INFO  EndToEnd_Test:76 - fetched the price successfully & price is 800.00
+2023-03-09 19:57:57 INFO  EndToEnd_Test:79 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-09 19:57:58 INFO  EndToEnd_Test:83 - Subtotal Price Fetched successfully and the price is   15300.00
+2023-03-09 19:58:00 INFO  EndToEnd_Test:87 - Billing addreess details entered successfully 
+2023-03-09 19:58:02 INFO  EndToEnd_Test:92 - payment validated successfully and the message is  You will pay by COD
+2023-03-09 20:01:25 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-09 20:01:25 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-09 20:01:36 INFO  EndToEnd_Test:72 - Computers and Destop are clicked successfully 
+2023-03-09 20:01:39 INFO  EndToEnd_Test:76 - fetched the price successfully & price is 800.00
+2023-03-09 20:01:39 INFO  EndToEnd_Test:79 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-09 20:01:40 INFO  EndToEnd_Test:83 - Subtotal Price Fetched successfully and the price is   15300.00
+2023-03-09 20:01:43 INFO  EndToEnd_Test:87 - Billing addreess details entered successfully 
+2023-03-09 20:01:45 INFO  EndToEnd_Test:92 - payment validated successfully and the message is  You will pay by COD
+2023-03-09 20:01:49 INFO  EndToEnd_Test:95 - order successfully validated and the message is  Your order has been successfully processed!
+2023-03-09 20:01:49 INFO  EndToEnd_Test:97 - order successfully validated and the message is  Order number: 1391185
+2023-03-11 15:28:43 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-11 15:28:43 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-11 15:28:56 INFO  EndToEnd_Test:73 - Computers and Destop are clicked successfully 
+2023-03-11 15:28:58 INFO  EndToEnd_Test:77 - fetched the price successfully & price is 800.00
+2023-03-11 15:28:58 INFO  EndToEnd_Test:80 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-11 15:28:59 INFO  EndToEnd_Test:84 - Subtotal Price Fetched successfully and the price is   21640.00
+2023-03-11 15:29:02 INFO  EndToEnd_Test:88 - Billing addreess details entered successfully 
+2023-03-11 15:29:04 INFO  EndToEnd_Test:93 - payment validated successfully and the message is  You will pay by COD
+2023-03-11 15:29:06 INFO  EndToEnd_Test:96 - order successfully validated and the message is  Your order has been successfully processed!
+2023-03-11 15:29:06 INFO  EndToEnd_Test:98 - order successfully validated and the message is  Order number: 1392356
+2023-03-11 15:32:23 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-11 15:32:23 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-11 15:34:47 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-11 15:34:47 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-11 15:34:58 INFO  EndToEnd_Test:73 - Computers and Destop are clicked successfully 
+2023-03-11 15:35:00 INFO  EndToEnd_Test:77 - fetched the price successfully & price is 800.00
+2023-03-11 15:35:00 INFO  EndToEnd_Test:80 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-11 15:35:01 INFO  EndToEnd_Test:84 - Subtotal Price Fetched successfully and the price is   9780.00
+2023-03-11 15:35:04 INFO  EndToEnd_Test:88 - Billing addreess details entered successfully 
+2023-03-11 15:35:06 INFO  EndToEnd_Test:93 - payment validated successfully and the message is  You will pay by COD
+2023-03-11 15:35:07 INFO  EndToEnd_Test:96 - order successfully validated and the message is  Your order has been successfully processed!
+2023-03-11 15:35:07 INFO  EndToEnd_Test:98 - order successfully validated and the message is  Order number: 1392361
+2023-03-11 15:39:31 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-11 15:39:31 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-11 15:42:06 INFO  EndToEnd_Test:38 - Browser Using   Chrome
+2023-03-11 15:42:06 INFO  EndToEnd_Test:40 - Fetching the URL  http://demowebshop.tricentis.com/
+2023-03-11 15:42:21 INFO  EndToEnd_Test:73 - Computers and Destop are clicked successfully 
+2023-03-11 15:42:23 INFO  EndToEnd_Test:77 - fetched the price successfully & price is 800.00
+2023-03-11 15:42:23 INFO  EndToEnd_Test:80 - product Added  to cart successfully and The message is  The product has been added to your shopping cart
+2023-03-11 15:42:25 INFO  EndToEnd_Test:84 - Subtotal Price Fetched successfully and the price is   9780.00
+2023-03-11 15:42:27 INFO  EndToEnd_Test:88 - Billing addreess details entered successfully 
+2023-03-11 15:42:29 INFO  EndToEnd_Test:93 - payment validated successfully and the message is  You will pay by COD
+2023-03-11 15:42:31 INFO  EndToEnd_Test:96 - order successfully validated and the message is  Your order has been successfully processed!
+2023-03-11 15:42:31 INFO  EndToEnd_Test:98 - order successfully validated and the message is  Order number: 1392367

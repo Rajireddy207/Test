@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27954" started-at="2023-03-11T15:42:05 IST" finished-at="2023-03-11T15:42:33 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27954" started-at="2023-03-11T15:42:05 IST" finished-at="2023-03-11T15:42:33 IST">
+      <class name="Com.Tricenties_TestScript.EndToEnd_Test">
+        <test-method status="PASS" signature="loadlog4J()[pri:0, instance:Com.Tricenties_TestScript.EndToEnd_Test@69379752]" name="loadlog4J" is-config="true" duration-ms="69" started-at="2023-03-11T15:42:05 IST" finished-at="2023-03-11T15:42:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadlog4J -->
+        <test-method status="PASS" signature="beforeclassinitilization()[pri:0, instance:Com.Tricenties_TestScript.EndToEnd_Test@69379752]" name="beforeclassinitilization" is-config="true" duration-ms="0" started-at="2023-03-11T15:42:05 IST" finished-at="2023-03-11T15:42:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclassinitilization -->
+        <test-method status="PASS" signature="initialdata(java.lang.reflect.Method)[pri:0, instance:Com.Tricenties_TestScript.EndToEnd_Test@69379752]" name="initialdata" is-config="true" duration-ms="7889" started-at="2023-03-11T15:42:05 IST" finished-at="2023-03-11T15:42:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Com.Tricenties_TestScript.EndToEnd_Test.TC02_Demohop_EndToEnd()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialdata -->
+        <test-method status="PASS" signature="TC02_Demohop_EndToEnd()[pri:0, instance:Com.Tricenties_TestScript.EndToEnd_Test@69379752]" name="TC02_Demohop_EndToEnd" duration-ms="19954" started-at="2023-03-11T15:42:13 IST" finished-at="2023-03-11T15:42:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_Demohop_EndToEnd -->
+      </class> <!-- Com.Tricenties_TestScript.EndToEnd_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
